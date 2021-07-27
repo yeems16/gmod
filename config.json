@@ -5,10 +5,10 @@
   },
   "plugins" : {
     "slideshow" : {
-      "active" : false,
+      "active" : true,
       "speed" : 1000,
       "time" : 5000,
-      "random" : false,
+      "random" : true,
       "image" : [
         "https://i.imgur.com/wIeMurL.jpg",
         "http://cloud-4.steampowered.com/ugc/510328173857488907/D3C86C34DCE410D2C4ED0C3AA06F7ED41ECF468A/",
