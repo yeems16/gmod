@@ -1,7 +1,7 @@
 {
   "server": {
-    "name": "GoulpLoader",
-    "banner": "img/banner.png"
+    "name": "RetardRP",
+    "banner": ""
   },
   "plugins" : {
     "slideshow" : {
@@ -11,8 +11,7 @@
       "random" : true,
       "image" : [
         "https://i.imgur.com/wIeMurL.jpg",
-        "http://cloud-4.steampowered.com/ugc/510328173857488907/D3C86C34DCE410D2C4ED0C3AA06F7ED41ECF468A/",
-        "http://i.ytimg.com/vi/66_hi3AfwT0/maxresdefault.jpg"
+		"https://imgur.com/a/NQ25nRy",
       ]
     },
     "music" : {
