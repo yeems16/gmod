@@ -1,0 +1,30 @@
+{
+  "server": {
+    "name": "GoulpLoader",
+    "banner": "img/banner.png"
+  },
+  "plugins" : {
+    "slideshow" : {
+      "active" : true,
+      "speed" : 1000,
+      "time" : 5000,
+      "random" : true,
+      "image" : [
+        "https://imgur.com/a/6lRg53l",
+        "https://imgur.com/a/NQ25nRy",
+        "https://i.imgur.com/veGVsFw.jpg"
+      ]
+    },
+    "music" : {
+      "active" : false,
+      "file" : "example.wav",
+      "volume" : 0.1,
+      "title" : "Example Song"
+    }
+  },
+  "rules": [
+    {"line" : "a"},
+    {"line" : "b"},
+    {"line" : "c"}
+  ]
+}
