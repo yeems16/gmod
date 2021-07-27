@@ -1,0 +1,30 @@
+{
+  "server": {
+    "name": "GoulpLoader",
+    "banner": "img/banner.png"
+  },
+  "plugins" : {
+    "slideshow" : {
+      "active" : false,
+      "speed" : 1000,
+      "time" : 5000,
+      "random" : false,
+      "image" : [
+        "https://i.imgur.com/wIeMurL.jpg",
+        "http://cloud-4.steampowered.com/ugc/510328173857488907/D3C86C34DCE410D2C4ED0C3AA06F7ED41ECF468A/",
+        "http://i.ytimg.com/vi/66_hi3AfwT0/maxresdefault.jpg"
+      ]
+    },
+    "music" : {
+      "active" : false,
+      "file" : "example.wav",
+      "volume" : 0.1,
+      "title" : "Example Song"
+    }
+  },
+  "rules": [
+    {"line" : "a"},
+    {"line" : "b"},
+    {"line" : "c"}
+  ]
+}
